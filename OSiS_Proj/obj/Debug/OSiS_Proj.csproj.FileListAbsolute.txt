@@ -1,0 +1,9 @@
+I:\Руслан\учёба\6semestr\OSiS_Proj\OSiS_Proj\bin\Debug\OSiS_Proj.exe.config
+I:\Руслан\учёба\6semestr\OSiS_Proj\OSiS_Proj\bin\Debug\OSiS_Proj.exe
+I:\Руслан\учёба\6semestr\OSiS_Proj\OSiS_Proj\bin\Debug\OSiS_Proj.pdb
+I:\Руслан\учёба\6semestr\OSiS_Proj\OSiS_Proj\obj\Debug\OSiS_Proj.csprojAssemblyReference.cache
+I:\Руслан\учёба\6semestr\OSiS_Proj\OSiS_Proj\obj\Debug\OSiS_Proj.Form1.resources
+I:\Руслан\учёба\6semestr\OSiS_Proj\OSiS_Proj\obj\Debug\OSiS_Proj.Properties.Resources.resources
+I:\Руслан\учёба\6semestr\OSiS_Proj\OSiS_Proj\obj\Debug\OSiS_Proj.csproj.GenerateResource.cache
+I:\Руслан\учёба\6semestr\OSiS_Proj\OSiS_Proj\obj\Debug\OSiS_Proj.exe
+I:\Руслан\учёба\6semestr\OSiS_Proj\OSiS_Proj\obj\Debug\OSiS_Proj.pdb

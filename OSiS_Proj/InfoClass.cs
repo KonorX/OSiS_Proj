@@ -25,17 +25,7 @@ namespace OSiS_Proj
             ManagementObjectSearcher searcherProcUsage = new ManagementObjectSearcher("select * from Win32_PerfFormattedData_PerfOS_Processor");
             foreach (ManagementObject obj in searcherProcUsage.Get())
             {
-                if (obj["Name"] == "_Total")
-                {
-                    CpuCores.Add(Convert.ToInt32(obj["PercentProcessorTime"]));
-                }
-                else
-                {
-
-
-                    CpuCores.Add(Convert.ToInt32(obj["PercentProcessorTime"]));
-
-                }
+                CpuCores.Add(Convert.ToInt32(obj["PercentProcessorTime"]));
             }
         }
 
